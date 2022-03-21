@@ -1,0 +1,8 @@
+name: ChatChannels
+version: '${version}'
+main: me.zote.cc.ChatChannels
+api-version: 1.18
+prefix: CHCH
+authors: [ TheAmazingZote ]
+description: Create and use chat channels
+website: theamazingzote.github.io
